@@ -1,0 +1,7 @@
+streamlit
+pypdf
+sentence_transformers
+psycopg2-binary
+openai
+pgvector
+dotenv
